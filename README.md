@@ -1,5 +1,7 @@
 # musicproject
 
+Tyrannosaurus Rex 
+
 ## my project
 
 ### another thing
